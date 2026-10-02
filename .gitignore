@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+
+# Environment secrets
+.env
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store

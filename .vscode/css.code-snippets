@@ -1,0 +1,79 @@
+{
+  "Display Flex": {
+    "scope": "css,less,scss",
+    "prefix": ["display flex", "df", "flex"],
+    "body": ["display: flex;"],
+    "description": "Insert display: flex;"
+  },
+  "Display Flex Centered": {
+    "scope": "css,less,scss",
+    "prefix": ["dfc", "flexcenter"],
+    "body": [
+      "display: flex;",
+      "justify-content: center;",
+      "align-items: center;"
+    ],
+    "description": "Insert display: flex with centered content"
+  },
+  "Display Grid": {
+    "scope": "css,less,scss",
+    "prefix": ["dg", "grid"],
+    "body": ["display: grid;"],
+    "description": "Insert display: grid;"
+  },
+  "Display Block": {
+    "scope": "css,less,scss",
+    "prefix": ["db", "block"],
+    "body": ["display: block;"],
+    "description": "Insert display: block;"
+  },
+  "Display Inline-Block": {
+    "scope": "css,less,scss",
+    "prefix": ["dib", "inlineblock"],
+    "body": ["display: inline-block;"],
+    "description": "Insert display: inline-block;"
+  },
+  "Display None": {
+    "scope": "css,less,scss",
+    "prefix": ["dn", "none"],
+    "body": ["display: none;"],
+    "description": "Insert display: none;"
+  },
+  "Flex Direction Column": {
+    "scope": "css,less,scss",
+    "prefix": ["fdc", "col"],
+    "body": ["flex-direction: column;"],
+    "description": "Insert flex-direction: column;"
+  },
+  "Justify Content Center": {
+    "scope": "css,less,scss",
+    "prefix": ["jcc"],
+    "body": ["justify-content: center;"],
+    "description": "Insert justify-content: center;"
+  },
+  "Align Items Center": {
+    "scope": "css,less,scss",
+    "prefix": ["aic"],
+    "body": ["align-items: center;"],
+    "description": "Insert align-items: center;"
+  },
+  "Position Absolute": {
+    "scope": "css,less,scss",
+    "prefix": ["posa", "absolute"],
+    "body": ["position: absolute;"],
+    "description": "Insert position: absolute;"
+  },
+  "Position Relative": {
+    "scope": "css,less,scss",
+    "prefix": ["posr", "relative"],
+    "body": ["position: relative;"],
+    "description": "Insert position: relative;"
+  },
+  "Cursor Pointer": {
+    "scope": "css,less,scss",
+    "prefix": ["cp", "pointer"],
+    "body": ["cursor: pointer;"],
+    "description": "Insert cursor: pointer;"
+  }
+}
+

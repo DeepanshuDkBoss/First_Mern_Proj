@@ -1,0 +1,21 @@
+{
+  "editor.quickSuggestions": {
+    "other": "inline",
+    "comments": "on",
+    "strings": "on"
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.tabCompletion": "on",
+  "editor.snippetSuggestions": "top",
+  "editor.wordBasedSuggestions": "allDocuments",
+  "css.completion.triggerPropertyValueCompletion": true,
+  "css.completion.completePropertyWithSemicolon": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showExpandedAbbreviation": "always",
+  "emmet.showAbbreviationSuggestions": true
+}
+
